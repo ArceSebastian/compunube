@@ -1,0 +1,15 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: html
+
+<html> 
+  <head>
+    <title>UPS! @_@</title>
+  </head> 
+  <body>
+    <div> 
+          <h2 >Nos encontramos fuera de linea. Apreciamos su paciencia mientras restauramos ^_^</h2>
+    </div>
+  </body> 
+</html>
